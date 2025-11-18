@@ -3,7 +3,8 @@
 =========================== -->
 
 <div align="center">
-  <img src="https://i.ibb.co/7kDGX0H/github-banner-mahfoz.png" width="100%" alt="Mahfoz Banner" />
+  <img src="https://i.ibb.co/7kDGX0H/github-banner-mahfoz.png
+" width="100%" alt="Mahfoz Banner" />
 
   <h1>👋 Hi, I'm <strong>Mahfoz</strong></h1>
   <h3>Full-Stack MERN Developer | React & Node.js Enthusiast | Clean UI & API Builder</h3>
