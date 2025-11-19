@@ -24,19 +24,48 @@
 
 ---
 
-## 🛠️ Languages & Tools  
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
+## 🚀 FOLLOW ME ON SOCIALS
+<div align="center">
+  <a href="https://www.facebook.com/mahfoz05" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="40" height="40" alt="Facebook"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mahfozul-hoque-41223419b" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
 </div>
+
+---
+
+## 🛠️ TECHNOLOGY STACK
+
+### Languages
+- JavaScript  
+- C  
+- C++
+
+### CSS Frameworks & Libraries
+- Tailwind CSS  
+- Daisy UI
+
+### JavaScript Frameworks & Libraries
+- React  
+- Node.js  
+- Express.js  
+- Firebase
+
+### Database & Model
+- MongoDB
+
+### Deployment Platforms
+- Netlify  
+- Surge  
+- Vercel
+
+### Tools & Technologies
+- Windows  
+- Postman  
+- Visual Studio  
+- GitHub
 
 ---
 
@@ -51,7 +80,5 @@
 
 ---
 
-## 📫 Contact  
+## 📫 Contact
 📧 **mahfoz81000@gmail.com**
-
- 
