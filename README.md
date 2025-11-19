@@ -27,13 +27,12 @@
 ## 🚀 FOLLOW ME ON SOCIALS
 <div align="center">
   <a href="https://www.facebook.com/mahfoz05" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="40" height="40" alt="Facebook"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" width="40" height="40" alt="Facebook"/>
   </a>
   <a href="https://www.linkedin.com/in/mahfozul-hoque-41223419b" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
   </a>
 </div>
-
 ---
 
 ## 🛠️ TECHNOLOGY STACK
