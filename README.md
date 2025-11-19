@@ -25,7 +25,7 @@
 ---
 
 ## 🚀 FOLLOW ME ON SOCIALS
-<div align="center">
+<div align="">
   <a href="https://www.facebook.com/mahfoz05" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" width="40" height="40" alt="Facebook"/>
   </a>
@@ -47,8 +47,9 @@
 ### CSS Frameworks & Libraries
 <div>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/daisyui.svg" width="40" height="40" alt="Daisy UI"/>
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="Daisy UI"/>
+
+
 
 ### JavaScript Frameworks & Libraries
 <div>
@@ -66,7 +67,7 @@
 ### Deployment Platforms
 <div>
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40" alt="Netlify"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Surge_logo.png" width="40" height="40" alt="Surge"/>
+
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40" alt="Vercel"/>
 </div>
 
