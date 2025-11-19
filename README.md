@@ -39,33 +39,45 @@
 ## 🛠️ TECHNOLOGY STACK
 
 ### Languages
-- JavaScript  
-- C  
-- C++
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+</div>
 
 ### CSS Frameworks & Libraries
-- Tailwind CSS  
-- Daisy UI
+<div>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/daisyui.svg" width="40" height="40" alt="Daisy UI"/>
+</div>
 
 ### JavaScript Frameworks & Libraries
-- React  
-- Node.js  
-- Express.js  
-- Firebase
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/>
+</div>
 
 ### Database & Model
-- MongoDB
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+</div>
 
 ### Deployment Platforms
-- Netlify  
-- Surge  
-- Vercel
+<div>
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40" alt="Netlify"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Surge_logo.png" width="40" height="40" alt="Surge"/>
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40" alt="Vercel"/>
+</div>
 
 ### Tools & Technologies
-- Windows  
-- Postman  
-- Visual Studio  
-- GitHub
+<div>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/windows.svg" width="40" height="40" alt="Windows"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+</div>
 
 ---
 
