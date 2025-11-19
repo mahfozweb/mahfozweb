@@ -81,16 +81,29 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GITHUB STATISTICS & ANALYSIS
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahfozweb&show_icons=true&theme=tokyonight"/>
+  <!-- Repository Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mahfozweb&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahfozweb&theme=tokyonight"/>
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfozweb&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
----
+<p align="center">
+  <!-- Contributions Graph (Puzzle-style Simulation) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfozweb&bg_color=0D1117&color=FF5733&line=00F5FF&point=00FFAA&hide_border=true&theme=react-dark" alt="GitHub Contributions Puzzle Graph"/>
+</p>
+
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=mahfozweb&color=00F5FF" alt="Profile Views"/>
+</p>
+
+
 
 ## 📫 Contact
 📧 **mahfoz81000@gmail.com**
