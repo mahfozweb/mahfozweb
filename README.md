@@ -11,6 +11,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+Express+Enthusiast;Clean+UI+%26+Scalable+API+Builder;Turning+Ideas+Into+Modern+Web+Apps" />
   </div>
 
+<p align="center">
+  <!-- Profile Views (Bigger) -->
+  <img src="https://komarev.com/ghpvc/?username=mahfozweb&color=00F5FF" alt="Profile Views" width="200" height="60"/>
+</p>
+
 
 
 ---
@@ -83,25 +88,28 @@
 
 ## 📊 GITHUB STATISTICS & ANALYSIS
 
-<p align="center">
-  <!-- Repository Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mahfozweb&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
+<small>GitHub Contributions:</small>
 
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfozweb&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
+ <p align="">
   <!-- Contributions Graph (Puzzle-style Simulation) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfozweb&bg_color=0D1117&color=FF5733&line=00F5FF&point=00FFAA&hide_border=true&theme=react-dark" alt="GitHub Contributions Puzzle Graph"/>
 </p>
 
-<p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=mahfozweb&color=00F5FF" alt="Profile Views"/>
+<small>GitHub Statistics:</small>
+<p align="">
+  <!-- Repository Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mahfozweb&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
+<small>Repository Stats & Streak:</small>
+
+<p align="">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfozweb&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+
+
+
 
 
 
