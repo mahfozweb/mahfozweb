@@ -90,6 +90,12 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 </div>
 
 ---
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div> 
+
 
 ## 📊 GITHUB STATISTICS & ANALYSIS
 
