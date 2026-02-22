@@ -8,7 +8,7 @@
   <h1>👋 Hi, I'm <strong>Mahfoz</strong></h1>
 
   <!-- Animated typing text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Express+Enthusiast;Clean+UI+%26+Scalable+API+Builder;Turning+Ideas+Into+Modern+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+Express+Enthusiast;Clean+UI+%26+Scalable+API+Builder;Turning+Ideas+Into+Modern+Web+Apps" />
   </div>
 
 <p align="center">
